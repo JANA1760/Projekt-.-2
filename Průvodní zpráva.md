@@ -11,14 +11,17 @@ Zadání:
 •	využití interaktivních prvků jako jsou záložky, tlačítka navigátory
 •	navigace po stranách, 
 •	odkazy na webové stránky, ...
-•	propojení několika (2+) datových tabulek, buď přes vazby v rámci Power BI nebo přes propojení v Power Query
-•	použití vytvořené hierarchie o alespoň dvou úrovních (nepovinné)
-•	vytvoření alespoň 1 measure (metrika/míra) a 1 kalkulovaného sloupce/tabulky
+•	propojení několika (2+) datových tabulek, buď přes vazby v rámci Power BI nebo přes propojení v Power Query,
+•	použití vytvořené hierarchie o alespoň dvou úrovních (nepovinné),
+•	vytvoření alespoň 1 measure (metrika/míra) a 1 kalkulovaného sloupce/tabulky.
 
 Grafická úprava použitých vizuálů, zvolení správných typů vizuálů a vizuálně přívětivý výsledný report.
 
 Úvod:
-V rámci zadání projektu jsem zvolila volně přístupná data z ČSÚ k evidenci ekonomických subjektů. Zpracovala jsem analýzu dynamiky vývoje počtu ekonomických subjektů v letech 2017 – 2024.  Zdrojová data byla stažena ve formátu xls. Jednalo se o následující tabulky:
+V rámci zadání projektu jsem zvolila volně přístupná data z ČSÚ k evidenci ekonomických subjektů, https://vdb.czso.cz/vdbvo2/faces/index.jsf?page=vystup-objekt-parametry&sp=A&pvokc=&pvo=ORGD05&katalog=30831&z=T&&akt=6014, 
+https://vdb.czso.cz/vdbvo2/faces/index.jsf?page=vystup-objekt&z=T&f=TABULKA&skupId=3549&pvo=ORG09-Q&katalog=30831&pvo=ORG09-Q&str=v719&&akt=6002
+
+Zpracovala jsem analýzu dynamiky vývoje počtu ekonomických subjektů v letech 2017 – 2024.  Zdrojová data byla stažena ve formátu xls. Jednalo se o následující tabulky:
 •	Vznik a zánik ekonomických subjektů,
 •	Registrace ekonomických subjektů podle činnosti.
 
